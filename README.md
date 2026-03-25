@@ -28,8 +28,6 @@
 - [Running Locally](#running-locally)
 - [Docker](#docker)
 - [CI/CD Pipeline](#cicd-pipeline)
-- [Linting](#linting)
-
 ## API Endpoints
 
 | Method | Endpoint | Description |

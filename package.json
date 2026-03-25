@@ -1,7 +1,7 @@
 {
   "name": "bicycle-system-backend",
   "version": "0.0.1",
-  "description": "",
+  "description": "Backend API for bike-sharing data aggregation via GBFS",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
