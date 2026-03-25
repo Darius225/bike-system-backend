@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.github
+.vscode
+coverage
+*.md
+images
+tests
+jest-*.config.js
+.eslintrc.js
+.eslintignore
+.prettierrc
+tsconfig*.json
